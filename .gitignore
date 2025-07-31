@@ -1,0 +1,20 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.iml
+*.lock
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Firebase secrets
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# APK files
+*.apk
